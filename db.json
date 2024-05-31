@@ -1,0 +1,29 @@
+{
+    "studentRoster": [
+      {
+        "firstName": "John",
+        "lasttName": "King",
+        "id": 1
+      },
+      {
+        "firstName": "Joseph",
+        "lasttName": "Dillon",
+        "id": 2
+      },
+      {
+        "firstName": "Martha",
+        "lasttName": "Lue",
+        "id": 3
+      },
+      {
+        "firstName": "Meg",
+        "lasttName": "Samwuel",
+        "id": 4
+      },
+      {
+        "firstName": "Annie",
+        "lasttName": "Jones",
+        "id": 5
+      }
+    ]
+  }
